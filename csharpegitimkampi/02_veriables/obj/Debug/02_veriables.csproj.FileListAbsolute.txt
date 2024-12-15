@@ -1,0 +1,7 @@
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\02_veriables\bin\Debug\02_veriables.exe.config
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\02_veriables\bin\Debug\02_veriables.exe
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\02_veriables\bin\Debug\02_veriables.pdb
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\02_veriables\obj\Debug\02_veriables.csproj.AssemblyReference.cache
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\02_veriables\obj\Debug\02_veriables.csproj.CoreCompileInputs.cache
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\02_veriables\obj\Debug\02_veriables.exe
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\02_veriables\obj\Debug\02_veriables.pdb

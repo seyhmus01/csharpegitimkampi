@@ -1,0 +1,7 @@
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\Şeyhmus ÇİÇEK\Source\Repos\csharpegitimkampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
